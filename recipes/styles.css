@@ -1,0 +1,17 @@
+body {
+    background-color: steelblue;
+}
+
+h1 {
+    background-color: rgb(43, 226, 98);
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+}
+
+li {
+    padding-bottom: 20px;
+}
